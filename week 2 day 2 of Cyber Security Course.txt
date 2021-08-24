@@ -1,0 +1,74 @@
+week 2 day 2 of Cyber Security Course:
+
+today we started by learning how to clone the repository in GitHub to git bash,
+as well as how to generate an ssh key to grant access to other users.
+
+---------------------------------------------------------------------------------------------------------
+
+We then moved on to define Virtualisation and its types.
+
+Definition:
+In computing, virtualization or virtualisation is the act of creating a virtual version of something, including virtual computer hardware platforms, storage devices, and computer network resources.
+
+Virtualisation is the process of separating a sofware from the hardware.
+
+A virtual server means that the server doesn't exist in a physical form,it exists in a virtual format.
+
+Hypervisor (aka Virtual Machine Monitor (VVM)) works as an interface between the VM's and the host.
+
+
+There are 2 virtualisation types, Type 1 Hypervisor and the Type 2 Hypervisor.
+Type 1 Hypervisor:
+the hypervisor runs directly on the host machine's hardware without the existance of any operating systems.
+
+Type 2 Hypervisor:
+The host's machine is running under a conventional operating system, such as: Microsoft Windows,
+Linux, MacOS, etc. The Hypervisor in this type is just another software installed in the operating system
+and it shares the resources with all the applications.
+
+The more layers you have increases the complexity of your system and thus means a more vulnerable system!
+This means that the type 1 hypervisor is a safer option as it does not contain an operating system.
+This also means that the type 1 hypervisor performs better.
+However Type 2 hypervisor is much easier to use.
+Servers use a type 1 hypervisor.
+
+---------------------------------------------------------------------------------------------------------
+
+We then moved on to learn about Linux OS.
+Windows uses a TFS file system while Linux uses Ext4
+
+covered the linux architecture:
+At the centre you have the hardware, kernel surrounds the hardware, shell surrounds the kernel, and  
+applications surrounds the shell.
+
+Only the kernel can access the hardware.The Linux kernel is the main component of a Linux operating system (OS) and is the core interface between a computer's hardware and its processes. It communicates between the 2, managing resources as efficiently as possible.
+
+The Shell is the interface between user, applications, and the kernel.
+
+Bash/dash are examples of shell used in obuntu
+
+Applications could be anything, python, emails, web browser etc
+
+----------
+
+Then moved on to Linux filesystems:
+
+----------
+
+A filesystem is the system that control how to store and retrieve the data (i.e. files) in/from the storage device (e.g. hard disk, flash memory)
+
+Everything (devices – hard disk, gps, camera) will be stored as a file name and be used and read as a file but not stored as one
+Everything starts with a slash (/) wehn trying to access a file
+
+---------
+
+Linux shell is a text interface to your computer. 
+Ofter referred to as the command line, terminal, consol, prompt or various other names.
+
+Different ways to launch a linux terminal:
+1. Activities/Start -> Type shell or terminal
+2. alt + ctrl + t
+
+---------
+
+finally covered different types of commands used on the linux terminal.
