@@ -1,0 +1,37 @@
+Week 2 day 1 of Cyber Security Course
+---------------------------------------------------------------------------------------------------------
+
+Covered the objectives the Cyber Security Course.
+
+Went over the Cybersecurity cube (aka McCumber Cube). It's a model framework for establishing and 
+evaluating information security (information assurance) programs.
+The cubes three-dimensions represent:
+1. Desired goals (CIA)
+	1. Confidentiallity
+	2. Integrity
+	3. Availability
+2. Data states
+	1. Transmission
+	2. Storage
+	3. Processing
+3. Safeguard
+	1. Human Factors
+	2. Policy and Practice
+	3. Technology
+
+-----------------
+
+Then covered some Cybersecurity essential terms like assets and vulnerability.
+
+And the moved on to different Cyber attacks, actors, threats and the cyber kill chain.
+
+---------------------------------------------------------------------------------------------------------
+
+We also covered some basic hardware principles.
+
+We went over some good practices to improve security and check for viruses when using Microsoft
+Windows as the OS.
+
+---------------------------------------------------------------------------------------------------------
+
+Finally we used Powershell to perform some basic arithmetic operations
